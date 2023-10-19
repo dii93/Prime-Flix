@@ -2,7 +2,9 @@ https://dii93.github.io/Prime-Flix/
 
 # React + Vite
 
-# React # Html # css # Fire Base
+# React + Html + css + Fire Base
+
+Prime Flix - Pagina web voltada a filmes atualizada, consumindo uma API externa 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
